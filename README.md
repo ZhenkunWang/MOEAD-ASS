@@ -1,1 +1,1 @@
-# It contains the matlab code of MOEAD-ASS
+# The matlab code of MOEAD-ASS
